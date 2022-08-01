@@ -1,0 +1,21 @@
+.contenedor_encabezado {
+    display: flex;
+    align-items: baseline;
+    border: 1px solid #FF0000;
+    border-radius: 25px;
+    height: 25vh;
+    width: 100vh;
+    padding: 5px;
+}
+
+.contenedor_encabezado .encabezado {
+    justify-content: center;
+    font-size: 12px;
+    
+}
+.contenedor_encabezado .cuerpo {
+    justify-items: center;
+    font-size: 10px;
+    padding-left: 4px;
+    color: #ea25ff;
+}
